@@ -4,8 +4,6 @@
  * @since September 16 2017
  */
 
-import org.jetbrains.annotations.Contract;
-
 /**
  * @class StudentGrades
  * @classdesc Prints a table of student grades
